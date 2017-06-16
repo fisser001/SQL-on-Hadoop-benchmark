@@ -1,0 +1,2 @@
+# SQL-on-Hadoop-benchmark
+This repository contains the queries adapted from TPC-H (http://www.tpc.org/tpch/), which are used in the following paper:  M.Y. Santos, C. Costa, J. Galvão, C. Andrade, B. Martinho, F. Vale Lima, E. Costa. 2017. Evaluating SQL-on-Hadoop for Big Data Warehousing on Not-So-Good Hardware. In Proceedings of International Database Engineering &amp; Applications Symposium, Bristol, United Kingdom, July 2017 (IDEAS’17), 11 pages. DOI: 10.1145/3105831.3105842
